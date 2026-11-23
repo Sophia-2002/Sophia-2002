@@ -1,4 +1,4 @@
-# Hi, I'm Sophia 👋
+## Hi, I'm Sophia 👋
 
 Business Analytics graduate based in London | Operations & Risk Analysis | Data Analytics
 
@@ -9,10 +9,10 @@ MSc Business Analytics (Operations & Risk Analysis), Alliance Manchester Busines
 BA Sociology, National Chengchi University (NCCU), Taiwan
 
 ## 🔍 What I work on
-Financial risk & FinTech: dissertation on what determines whether a stablecoin recovers or fails after a depeg event
-Optimisation & efficiency analysis: Data Envelopment Analysis (Dual CCR model) to benchmark 12 suppliers in Excel Solver; Multiple Objective Linear Programming
-Machine learning & regression: predicting annual patent counts from keyword rates (OLS + ML models) using Ericsson patent data
-
+- **Financial risk & FinTech:** [Stablecoin depeg recovery](https://github.com/Sophia-2002/stablecoin-depeg-recovery): what determines whether a stablecoin recovers or fails after a depeg event
+- **Optimisation & efficiency analysis:** Data Envelopment Analysis (Dual CCR model) to benchmark 12 suppliers in Excel Solver; Multiple Objective Linear Programming
+- **Machine learning & regression:** predicting annual patent counts from keyword rates (OLS + ML models) using Ericsson patent data
+  
 ## 🛠️ Tools
 
 Python · Excel / Solver · Statistics · SQL  · Power BI  · Git
