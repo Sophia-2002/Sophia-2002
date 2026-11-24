@@ -9,9 +9,18 @@ MSc Business Analytics (Operations & Risk Analysis), Alliance Manchester Busines
 BA Sociology, National Chengchi University (NCCU), Taiwan
 
 ## 🔍 What I work on
-- **Financial risk & FinTech:** [Stablecoin depeg recovery](https://github.com/Sophia-2002/stablecoin-depeg-recovery): what determines whether a stablecoin recovers or fails after a depeg event
-- **Optimisation & efficiency analysis:** [Data Envelopment Analysis (Dual CCR model) to benchmark 12 suppliers](https://github.com/Sophia-2002/supplier-performance-dea) in Excel Solver and Python; Multiple Objective Linear Programming
-- **Machine learning & regression:** [predicting annual patent counts from keyword rates (OLS + ML models)](https://github.com/Sophia-2002/ericsson-patent-forecasting) using Ericsson patent data
+- **Financial risk & FinTech:** [Stablecoin depeg recovery](https://github.com/Sophia-2002/stablecoin-depeg-recovery): MSc dissertation predicting whether a stablecoin recovers quickly after a depeg event (135 events, 9 coins), using nested cross-validation, logistic regression vs random forest and robustness checks
+- **Optimisation & efficiency analysis:** [Supplier efficiency analysis](https://github.com/Sophia-2002/supplier-performance-dea): input-oriented BCC Data Envelopment Analysis to benchmark 12 suppliers, plus an interactive multi-objective LP (minimax reference point with gradient projection) to set improvement targets, implemented in Excel Solver and Python
+- **Machine learning & NLP:** [Ericsson patent forecasting](https://github.com/Sophia-2002/ericsson-patent-forecasting): predicting annual patent counts with decision trees, random forests and SHAP, plus TF-IDF and K-Means clustering of patent titles to track shifts in the technology mix
+- **Operations & healthcare analytics:** [Scheduling optimisation & A&E breach prediction](https://github.com/Sophia-2002/optimisation-and-aed-breach-prediction): cost vs fairness staff scheduling with linear programming (PuLP), and logistic regression to flag patients at risk of breaching the NHS 4-hour A&E target
+- **Marketing mix modelling (R):** [log-linear regression](https://github.com/Sophia-2002/lollipops-marketing-mix-model) on 9 years of sales data across 5 markets to measure TV, banner and in-store promotion effects, with stepwise AIC selection, VIF, Shapiro-Wilk and Breusch-Pagan diagnostics, plus advertising cost-effectiveness
+- **Discrete-event simulation:** [modelled a hospital inpatient pharmacy](https://github.com/Sophia-2002/Pharmacy-discrete-simulation) in SIMUL8, including distribution fitting, three-layer validation and staffing scenario analysis
+
+### Other coursework
+- **Survey data analysis (R):** Taiwan Youth Project panel data (n = 1,511) used to test how education, income, gender and hometown relate to age at first marriage (correlation, t-tests, ANOVA, OLS regression)
+- **Survey design & mixed methods:** designed and ran a stratified-sample student survey on university tuition subsidy policy, with regression analysis and follow-up in-depth interviews
+- **Qualitative research (gender studies):** semi-structured interviews and thematic analysis on how lesbian women navigate coming out to their families, and how parenting style and Taiwan's same-sex marriage legislation shape family responses
+- **Energy production planning:** linear programming in Excel Solver to optimise a power plant's fuel mix under emission and policy constraints
   
 ## 🛠️ Tools
 
