@@ -10,12 +10,12 @@ BA Sociology, National Chengchi University (NCCU), Taiwan
 
 ## 🔍 What I work on
 - **Financial risk & FinTech:** [Stablecoin depeg recovery](https://github.com/Sophia-2002/stablecoin-depeg-recovery): what determines whether a stablecoin recovers or fails after a depeg event
-- **Optimisation & efficiency analysis:** Data Envelopment Analysis (Dual CCR model) to benchmark 12 suppliers in Excel Solver; Multiple Objective Linear Programming
-- **Machine learning & regression:** predicting annual patent counts from keyword rates (OLS + ML models) using Ericsson patent data
+- **Optimisation & efficiency analysis:** [Data Envelopment Analysis (Dual CCR model) to benchmark 12 suppliers](https://github.com/Sophia-2002/supplier-performance-dea) in Excel Solver and Python; Multiple Objective Linear Programming
+- **Machine learning & regression:** [predicting annual patent counts from keyword rates (OLS + ML models)](https://github.com/Sophia-2002/ericsson-patent-forecasting) using Ericsson patent data
   
 ## 🛠️ Tools
 
-Python · Excel / Solver · Statistics · SQL  · Power BI  · Git
+Python · R · Excel / Solver · Statistics · SQL  · Power BI  · Git
 
 ## 📂 Coming soon
 sql-practice: SQL exercises and notes
